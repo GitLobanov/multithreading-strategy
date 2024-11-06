@@ -1,0 +1,1 @@
+- SpringBoot + WebSocket Fullstack. Мелим муку - многопоточность Java. https://www.youtube.com/watch?v=-j66sMJaz5I&t=179s
